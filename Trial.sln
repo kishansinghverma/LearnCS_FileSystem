@@ -9,11 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMPlugIn", "CRMPlugIn\CRMP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicPlugin", "BasicPlugin\BasicPlugin.csproj", "{B6E6F0A0-4510-47E7-B104-19AB1BF83E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrialFunction", "TrialFunction\TrialFunction.csproj", "{8824DAB2-F8A1-4F7A-B4B8-00A01528C857}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusReciever", "ServiceBusReciever\ServiceBusReciever.csproj", "{AFDCE7DF-00E0-4938-883D-18B538EC1A3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrialFunction", "TrialFunction\TrialFunction.csproj", "{8824DAB2-F8A1-4F7A-B4B8-00A01528C857}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileExplorer", "FileExplorer\FileExplorer.csproj", "{EE7968DA-2EC2-4D34-ACBF-CE020407720C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDemo", "UnitTestDemo\UnitTestDemo.csproj", "{4D305264-0271-4640-A167-EC396CCFBF16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,14 +37,14 @@ Global
 		{8824DAB2-F8A1-4F7A-B4B8-00A01528C857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8824DAB2-F8A1-4F7A-B4B8-00A01528C857}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8824DAB2-F8A1-4F7A-B4B8-00A01528C857}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AFDCE7DF-00E0-4938-883D-18B538EC1A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AFDCE7DF-00E0-4938-883D-18B538EC1A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AFDCE7DF-00E0-4938-883D-18B538EC1A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AFDCE7DF-00E0-4938-883D-18B538EC1A3E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EE7968DA-2EC2-4D34-ACBF-CE020407720C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EE7968DA-2EC2-4D34-ACBF-CE020407720C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE7968DA-2EC2-4D34-ACBF-CE020407720C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE7968DA-2EC2-4D34-ACBF-CE020407720C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D305264-0271-4640-A167-EC396CCFBF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D305264-0271-4640-A167-EC396CCFBF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D305264-0271-4640-A167-EC396CCFBF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D305264-0271-4640-A167-EC396CCFBF16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

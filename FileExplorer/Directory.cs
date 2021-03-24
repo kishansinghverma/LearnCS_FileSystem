@@ -7,7 +7,7 @@ using System.Diagnostics;
 
 namespace FileExplorer 
 {
-    class Directory
+    public class Directory
     {
         private string path;
       
